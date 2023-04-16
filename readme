@@ -14,3 +14,11 @@ sudo apt install python-rosdep python-rosinstall python-rosintall-generator pyth
 build-essential 
 sudo rosdep init 
 rosdep update
+
+
+
+roscore 
+
+ rosrun turtlesim turtlesim_node 
+
+rosrun turtlesim turtle_teleop_key
