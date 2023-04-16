@@ -22,3 +22,10 @@ roscore
  rosrun turtlesim turtlesim_node 
 
 rosrun turtlesim turtle_teleop_key
+
+gazebo 
+yeh lagah kar dekhlay  than copy paste hota hai warna direct link open kar leh drive ka link seh download it 
+sudo apt-get install virtualbox-guest-utils
+
+
+
